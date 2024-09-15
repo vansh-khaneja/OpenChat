@@ -13,7 +13,7 @@ This repo will guide you over building a platform from where the buisnesses can 
 
 ## Introduction
 
-In this project we are building a frontend for a customeized AI chatbot selling webste.
+In this project we are building the backend for a customeized AI chatbot selling webste.
 
 ## Installation
 
